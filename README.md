@@ -1,5 +1,4 @@
-REFERÊNCIAS DE PESQUISA
-
+Searched Links
 https://codingwithnick.in/background-image-slider-using-html-css-javascript/
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_auto
 
@@ -11,8 +10,11 @@ banner3.html - Click Screen
 
 Include: CSS, JavaScript
 
-Paste: 
+Folders: 
 img - import image in html file
 font-awesome - import chevron 
 
+Links Usefull:
+Font-awasome Download - https://fontawesome.com/v4/get-started/
+HTML Formatter -  https://www.freeformatter.com/html-formatter.html
 
