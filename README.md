@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img alt="html2" src=".github/project.png" width="100%">
+  <img alt="html2" src=".github/project2.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="html3" src=".github/project.png" width="100%">
+  <img alt="html3" src=".github/project3.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -41,8 +41,6 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Designed to share news, commemorative events, company notices.
-
-## 💻 Project
 
 HTML
 <p align="left"> banner.html - Click Full screen </p>
